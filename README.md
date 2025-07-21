@@ -4,7 +4,7 @@ This repository contains the work developed for the "Basi di Dati" (Databases) c
 
 ## 📚 Project Description
 
-**[Blog]** is a relational database designed to model and manage [breve descrizione: es. a music collection, a library system, a booking platform, etc.].
+**[Blog]** is a relational database designed to model and manage a blog.
 
 The project includes:
 - Conceptual design (E-R diagram)
@@ -17,7 +17,7 @@ The project includes:
 
 - MySQL / PostgreSQL / SQLite
 - SQL (DDL, DML, DQL)
-- [Facoltativo: PHP, Python, Node.js, etc.]
+- PHP, JavaScript
 
 ## 🗃️ Sample Queries
 
