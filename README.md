@@ -4,7 +4,7 @@ This repository contains the work developed for the "Basi di Dati" (Databases) c
 
 ## 📚 Project Description
 
-**[Titolo del progetto]** is a relational database designed to model and manage [breve descrizione: es. a music collection, a library system, a booking platform, etc.].
+**[Blog]** is a relational database designed to model and manage [breve descrizione: es. a music collection, a library system, a booking platform, etc.].
 
 The project includes:
 - Conceptual design (E-R diagram)
